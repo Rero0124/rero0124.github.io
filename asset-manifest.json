@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.b416311b.chunk.js",
-    "main.js.map": "/static/js/main.b416311b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.93670d13.js",
-    "runtime-main.js.map": "/static/js/runtime-main.93670d13.js.map",
-    "static/js/2.59e4301e.chunk.js": "/static/js/2.59e4301e.chunk.js",
-    "static/js/2.59e4301e.chunk.js.map": "/static/js/2.59e4301e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.59e4301e.chunk.js.LICENSE.txt": "/static/js/2.59e4301e.chunk.js.LICENSE.txt"
+    "main.js": "/Rero0124/my-web-site/static/js/main.b416311b.chunk.js",
+    "main.js.map": "/Rero0124/my-web-site/static/js/main.b416311b.chunk.js.map",
+    "runtime-main.js": "/Rero0124/my-web-site/static/js/runtime-main.42dbef3d.js",
+    "runtime-main.js.map": "/Rero0124/my-web-site/static/js/runtime-main.42dbef3d.js.map",
+    "static/js/2.59e4301e.chunk.js": "/Rero0124/my-web-site/static/js/2.59e4301e.chunk.js",
+    "static/js/2.59e4301e.chunk.js.map": "/Rero0124/my-web-site/static/js/2.59e4301e.chunk.js.map",
+    "index.html": "/Rero0124/my-web-site/index.html",
+    "static/js/2.59e4301e.chunk.js.LICENSE.txt": "/Rero0124/my-web-site/static/js/2.59e4301e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93670d13.js",
+    "static/js/runtime-main.42dbef3d.js",
     "static/js/2.59e4301e.chunk.js",
     "static/js/main.b416311b.chunk.js"
   ]
