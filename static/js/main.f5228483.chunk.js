@@ -1,2 +1,0 @@
-(this["webpackJsonprero0124.github.io"]=this["webpackJsonprero0124.github.io"]||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);var n=r(1),c=r.n(n),i=r(3),o=r.n(i),s=r(0);var b=function(){return Object(s.jsx)("h1",{children:"b"})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(b,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.f5228483.chunk.js.map
