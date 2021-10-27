@@ -1,2 +1,2 @@
 (this["webpackJsonprero0124.github.io"]=this["webpackJsonprero0124.github.io"]||[]).push([[0],{19:function(e,t,r){"use strict";r.r(t);var n=r(0),i=r.n(n),o=r(8),c=r.n(o),s=(r(3),r(4),r(1));var a=function(){return Object(s.jsx)("mainFrame",{})};c.a.render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))}},[[19,1,2]]]);
-//# sourceMappingURL=main.d091c251.chunk.js.map
+//# sourceMappingURL=main.5fbd671a.chunk.js.map
