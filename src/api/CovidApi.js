@@ -1,5 +1,5 @@
 const CovidApi = () => {
-	return <div>b</div>;
+	return <div></div>;
 };
 
 export default CovidApi;

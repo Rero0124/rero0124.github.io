@@ -6,18 +6,19 @@ const Nav = styled.div`
 	display: flex;
 	flex-direction: row;
 	align-items: stretch;
-	height: 7%;
+	height: 10%;
 `;
 const ApiValue = styled.div`
-	margin: 5px 10px 5px 5px;
-	border-radius: 3px;
+	margin: 7px 10px 7px 5px;
+	border-radius: 10px;
 	flex: 7;
 	display: flex;
 	flex-direction: row;
 	background-color: red;
 `;
 const LoginForm = styled.form`
-	margin: 5px 5px 5px 10px;
+	margin: 7px 5px 7px 10px;
+	border-radius: 10px;
 	flex: 3;
 	background-color: blue;
 `;
@@ -27,9 +28,14 @@ const MainFrame = () => {
 		<Nav>
 			<ApiValue>
 				<WeatherApi />
+				<div>
+					|<br />
+					|<br />
+					|<br />
+				</div>
 				<CovidApi />
 			</ApiValue>
-			<LoginForm>a</LoginForm>
+			<LoginForm></LoginForm>
 		</Nav>
 	);
 
