@@ -1,8 +1,7 @@
-import mainFrame from "./pages/mainFrame";
+import MainFrame from "./pages/MainFrame";
 
 function App() {
-  const element = mainFrame;
-  return element;
+	return <MainFrame />;
 }
 
 export default App;
