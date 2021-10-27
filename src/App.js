@@ -1,7 +1,8 @@
+import mainFrame from "./pages/mainFrame";
+
 function App() {
-  return (
-    <h1>b</h1>
-  );
+  const element = mainFrame;
+  return element;
 }
 
 export default App;
