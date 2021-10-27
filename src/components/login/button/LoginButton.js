@@ -2,12 +2,12 @@ import styled from "styled-components";
 
 const Layout = styled.div`
 	position: absolute;
-	right: 0;
+	left: 0;
 	top: 0;
 	transform: translate(0, 0);
 	width: 50%;
 	height: 100%;
-	border-left: 1px solid black;
+	border-right: 1px solid black;
 `;
 
 const Button = styled.button`
@@ -21,14 +21,18 @@ const Button = styled.button`
 	vertical-align: middle;
 `;
 
-const JoinInButton = () => {
+const LoginButton = (props) => {
+	const sectionSet = (e) => {
+		e.preventDefault();
+		props.sectionSet("Login");
+	};
 	const element = (
 		<Layout>
-			<Button>Join In</Button>
+			<Button onClick={sectionSet}>Log In</Button>
 		</Layout>
 	);
 
 	return element;
 };
 
-export default JoinInButton;
+export default LoginButton;
