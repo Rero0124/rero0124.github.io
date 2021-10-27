@@ -1,7 +1,8 @@
 import styled from "styled-components";
 import CovidApi from "../api/CovidApi";
 import WeatherApi from "../api/WeatherApi";
-import LoginButton from "../Login/LoginButton";
+import LoginButton from "../login/button/LoginButton";
+import JoinInButton from "../login/button/JoinInButton";
 
 const Page = styled.div`
 	height: 100%;
@@ -52,6 +53,7 @@ const MainFrame = () => {
 				</ApiMenu>
 				<LoginForm>
 					<LoginButton></LoginButton>
+					<JoinInButton></JoinInButton>
 				</LoginForm>
 			</Nav>
 			<Section></Section>

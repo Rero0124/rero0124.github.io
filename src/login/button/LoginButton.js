@@ -21,14 +21,14 @@ const Button = styled.button`
 	vertical-align: middle;
 `;
 
-const JoinInButton = () => {
+const LoginButton = () => {
 	const element = (
 		<Layout>
-			<Button>Login</Button>
+			<Button>Log In</Button>
 		</Layout>
 	);
 
 	return element;
 };
 
-export default JoinInButton;
+export default LoginButton;
