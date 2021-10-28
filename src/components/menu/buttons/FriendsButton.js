@@ -11,6 +11,7 @@ const Button = styled.button`
 const FriendsButton = (props) => {
 	const menuSet = (e) => {
 		e.preventDefault();
+		console.log(1);
 		props.menuSet("Friends");
 	};
 	return <Button onclick={menuSet}>friends</Button>;
