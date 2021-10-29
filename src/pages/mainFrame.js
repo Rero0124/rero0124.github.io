@@ -12,7 +12,7 @@ import Mail from "../components/menu/views/Mail";
 import FriendsButton from "../components/menu/buttons/FriendsButton";
 import MailButton from "../components/menu/buttons/MailButton";
 import MessageButton from "../components/menu/buttons/MessageButton";
-import DB from "../components/db/DB";
+// import DataBase from "../components/db/DataBase";
 
 const Page = styled.div`
 	height: 100%;
@@ -116,7 +116,6 @@ const MainFrame = () => {
 				</Login>
 			</Nav>
 			<Section>
-				<DB />
 				{sectionValue}
 				{menuValue}
 				<div id="menu">
